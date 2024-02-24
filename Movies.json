@@ -1,0 +1,287 @@
+[
+    {
+        "title" : "Beauty and the Beast",
+        "releaseYear" : 2017,
+        "rated" : "PG",
+        "durationMinute" : 129,
+        "genre" : ["Adventure", "Family", "Fantasy"],
+        "ratings" : {
+            "IMDB" :  7.1,
+            "Metascore" : 65
+        },
+        "featured" : true,
+        "director" :  "Bill Condon",
+        "starCast" : ["Emma Watson", "Dan Stevens", "Luke Evans", "Josh Gad"],
+        "votes" : 331952,
+        "NumbersInCount" : {
+            "grossCollection" : 504.01,
+            "budget" : 254
+        }
+    },
+    {
+        "title" : "Logan",
+        "releaseYear" : 2017,
+        "rated" : "R",
+        "durationMinute" : 137,
+        "genre" : ["Action", "Drama", "ScienceFiction"],
+        "ratings":{
+            "IMDB" :  8.1,
+            "Metascore" : 77
+        },
+        "featured" : true,
+        "director" :  "James Mangold",
+        "starCast" : ["Hugh Jackman", "Patrick Stewart", "Dafne Keen", "Boyd Holdbrook"],
+        "votes" : 821852,
+        "NumbersInCount" : {
+            "grossCollection" : 226.28,
+            "budget" : 97
+        }
+    },
+    {
+        "title" : "X-Men : Apocalypse",
+        "releaseYear" : 2016,
+        "rated" : "PG-13",
+        "durationMinute" : 144,
+        "genre" : ["Action", "Adventure", "ScienceFiction"],
+        "ratings":{
+            "IMDB" :  6.9,
+            "Metascore" : 52
+        },
+        "featured" : true,
+        "director" :  "Bryan Singer",
+        "starCast" : ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult"],
+        "votes" : 457705,
+        "NumbersInCount" : {
+            "grossCollection" : 543.9,
+            "budget" : 178
+        }
+    },
+    {
+        "title" : "Deadpool",
+        "releaseYear" : 2016,
+        "rated" : "R",
+        "durationMinute" : 108,
+        "genre" : ["Action", "Comedy"],
+        "ratings":{
+            "IMDB" :  8.0,
+            "Metascore" : 65
+        },
+        "featured" : true,
+        "director" :  "Tim Miller",
+        "starCast" : ["Ryan Reynolds", "Morena Baccarin", "T.J Miller", "ED Skrein"],
+        "votes" : 1112702,
+        "NumbersInCount" : {
+            "grossCollection" : 363.07,
+            "budget" : 58
+        }
+    },
+    {
+        "title" : "Man of Steel",
+        "releaseYear" : 2013,
+        "rated" : "PG-13",
+        "durationMinute" : 143,
+        "genre" : ["Action", "Adventure", "ScienceFiction"],
+        "ratings":{
+            "IMDB" :  7.1,
+            "Metascore" : 55
+        },
+        "featured" : true,
+        "director" :  "Zack Snyder",
+        "starCast" : ["Henry Cavil", "Amy Adams", "Michael Shannon", "Diane Lane"],
+        "votes" : 807519,
+        "NumbersInCount" : {
+            "grossCollection" : 668,
+            "budget" : 225
+        }
+    },
+    {
+        "title" : "Batman v Superman : Dawn of Justice",
+        "releaseYear" : 2016,
+        "rated" : "PG-13",
+        "durationMinute" : 151,
+        "genre" : ["Action", "Adventure", "ScienceFiction"],
+        "ratings":{
+            "IMDB" :  6.5,
+            "Metascore" : 44
+        },
+        "featured" : true,
+        "director" :  "Zack Snyder",
+        "starCast" : ["Ben Affleck", "Henry Cavil", "Amy Adams", "Jessy Einsberg"],
+        "votes" : 748731,
+        "NumbersInCount" : {
+            "grossCollection" : 873.6,
+            "budget" : 250
+        }
+    },
+    {
+        "title" : "Slumdog Milionaire",
+        "releaseYear" : 2008,
+        "rated" : "R",
+        "durationMinute" : 120,
+        "genre" : ["Crime", "Drama", "Romance"],
+        "ratings":{
+            "IMDB" :  8.0,
+            "Metascore" : 84
+        },
+        "featured" : true,
+        "director" :  "Danny Boyle",
+        "starCast" : ["Dev Patel", "Freida Pinto", "Saurabh Sukla", "Anil Kapoor"],
+        "votes" : 873576,
+        "NumbersInCount" : {
+            "grossCollection" : 377.9,
+            "budget" : 15
+        }
+    },
+    {
+        "title" : "Titanic",
+        "releaseYear" : 1997,
+        "rated" : "PG-13",
+        "durationMinute" : 194,
+        "genre" : ["Drama", "Romance"],
+        "ratings":{
+            "IMDB" :  7.9,
+            "Metascore" : 75
+        },
+        "featured" : true,
+        "director" :  "James Cameron",
+        "starCast" : ["Leonardo De Caprio", "Kate Winslet", "Billy Zane", "Kathy Bates"],
+        "votes" : 1269409,
+        "NumbersInCount" : {
+            "grossCollection" : 600.78,
+            "budget" : 200
+        }
+    },
+    {
+        "title" : "Avatar",
+        "releaseYear" : 2009,
+        "rated" : "PG-13",
+        "durationMinute" : 162,
+        "genre" : ["Action", "Adventure", "Fantasy"],
+        "ratings":{
+            "IMDB" :  7.9,
+            "Metascore" : 83
+        },
+        "featured" : true,
+        "director" :  "James Cameron",
+        "starCast" : ["Sam Warthington", "Zoe Saldana", "Sigourney Weaver", "Michell Rodriguez"],
+        "votes" : 1376466,
+        "NumbersInCount" : {
+            "grossCollection" : 2920,
+            "budget" : 237
+        }
+    },
+    {
+        "title" : "Gravity",
+        "releaseYear" : 2013,
+        "rated" : "PG-13",
+        "durationMinute" : 91,
+        "genre" : ["Drama", "ScienceFiction", "Thriller"],
+        "ratings":{
+            "IMDB" :  7.7,
+            "Metascore" : 96
+        },
+        "featured" : true,
+        "director" :  "Alfonso Cuaron",
+        "starCast" : ["Sandra Bullock", "George Clooney", "Ed Harris", "Orto Ignatiussen"],
+        "votes" : 858587,
+        "NumbersInCount" : {
+            "grossCollection" : 723.19,
+            "budget" : 100
+        }
+    },
+    {
+        "title" : "The Dark Knight",
+        "releaseYear" : 2008,
+        "rated" : "PG-13",
+        "durationMinute" : 152,
+        "genre" : ["Action", "Crime", "Drama"],
+        "ratings":{
+            "IMDB" :  9,
+            "Metascore" : 84
+        },
+        "featured" : true,
+        "director" :  "Chirstopher Nolan",
+        "starCast" : ["Christian Bell", "Heath Ledger", "Aron Eckhart", "Michael Caine"],
+        "votes" : 2841462,
+        "NumbersInCount" : {
+            "grossCollection" : 1006,
+            "budget" : 185
+        }
+    },
+    {
+        "title" : "The Dark Knight Rises",
+        "releaseYear" : 2012,
+        "rated" : "PG-13",
+        "durationMinute" : 164,
+        "genre" : ["Action", "Drama", "erer"],
+        "ratings":{
+            "IMDB" :  8.4,
+            "Metascore" : 78
+        },
+        "featured" : true,
+        "director" :  "Chirstopher Nolan",
+        "starCast" : ["Christian Bell", "Tom Hardy", "Anny Hataway", "Gary Oldman"],
+        "votes" : 1810265,
+        "NumbersInCount" : {
+            "grossCollection" : 1085,
+            "budget" : 250
+        }
+    },
+    {  
+        "title" : "Batman Begins",
+        "releaseYear" : 2005,
+        "rated" : "PG-13",
+        "durationMinute" : 140,
+        "genre" : ["Action", "Crime", "Drama"],
+        "ratings":{
+            "IMDB" :  8.2,
+            "Metascore" : 70
+        },
+        "featured" : true,
+        "director" :  "Chirstopher Nolan",
+        "starCast" : ["Christian Bell", "Michael Caine", "Ken Watanabe", "Liam Neeson"],
+        "votes" : 1564017,
+        "NumbersInCount" : {
+            "grossCollection" : 373.7,
+            "budget" : 150
+        }
+    },
+    {
+        "title" : "Gurdians of the Galaxy",
+        "releaseYear" : 2014,
+        "rated" : "PG-13",
+        "durationMinute" : 121,
+        "genre" : ["Action", "Adventure", "Comedy"],
+        "ratings":{
+            "IMDB" :  8.0,
+            "Metascore" : 76
+        },
+        "featured" : true, 
+        "director" :  "James Gunn",
+        "starCast" : ["Chris Patt", "Vin Diesel", "Bradley Cooper", "Zoe Saldana"],
+        "votes" : 1263708,
+        "NumbersInCount" : {
+            "grossCollection" : 333.18,
+            "budget" : 79.84
+        }
+    },
+    {
+        "title" : "Captain America: Civil War",
+        "releaseYear" : 2016,
+        "rated" : "PG-13",
+        "durationMinute" : 147,
+        "genre" : ["Action", "ScienceFiction"],
+        "ratings":{
+            "IMDB" :  7.8,
+            "Metascore" : 75
+        },
+        "featured" : true,
+        "director" :  "Anthony Russo",
+        "starCast" : ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Sebastian Stan"],
+        "votes" : 842986,
+        "NumbersInCount" : {
+            "grossCollection" : 1153.3,
+            "budget" : 250
+        }
+    }
+]
